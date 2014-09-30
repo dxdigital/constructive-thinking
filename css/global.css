@@ -1,0 +1,28 @@
+/* This file will hold styles for the mobile version of your website (mobile first). */
+/* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
+
+.page .menu li{
+	float: left;
+	list-style-image: none;
+	list-style-type: none;
+}
+
+/* Our team */
+
+.page-about-us-our-team .view-our-team img{
+	float: left;
+	width: 30%;
+}
+
+.page-about-us-our-team .view-our-team .team-member{
+	float: right;
+	width: 65%;
+}
+
+
+/* Testimonials */
+
+.page-testimonials .view-testimonials .views-row{
+	width: 30%;
+	float: left;
+}
