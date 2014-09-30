@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* This file will hold styles for the mobile version of your website (mobile first). */
 /* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
 
@@ -25,4 +26,8 @@
 .page-testimonials .view-testimonials .views-row{
 	width: 30%;
 	float: left;
+=======
+h1{
+	color:red;
+>>>>>>> FETCH_HEAD
 }
